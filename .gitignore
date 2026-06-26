@@ -1,0 +1,12 @@
+# Local tooling (keep on disk, never commit)
+.cursor/
+.vscode/
+
+# Neovim session artifacts
+*.swp
+*.swo
+*~
+.netrwhist
+
+# OS junk
+.DS_Store
